@@ -17,8 +17,6 @@ I specialize in building **scalable web applications** and **AI-driven solutions
 ---
 
 ## 🚀 Featured Live Projects
-*(Code is private due to NDA, but here are some live products I’ve built):*
-
 - **[Wallet Finder](https://app.walletfinder.ai)** – Web3 analytics platform with real-time blockchain data visualization.
 - **[TaxGenii](https://taxgenii.lodgeit.net.au)** – AI-powered tax assistant leveraging GPT-4 for natural language queries.
 - **[B Search](https://bsearchau.accziom.com)** – Public data intelligence platform for company verification.
@@ -27,17 +25,13 @@ I specialize in building **scalable web applications** and **AI-driven solutions
 ---
 
 ## 🧠 What I’m Working On
-- AI Agents that integrate with **business workflows**
-- Next-gen **LLM-powered web applications**
-- **Full-stack projects** with real-time data and scalable architecture
+- 🤖 **AI & LLMs**: Building AI Agents that integrate with business workflows, and developing next-gen **LLM-powered applications** using GPT-4 and LangChain.
+- 🌐 **Frontend**: Crafting **pixel-perfect UIs** with React.js, Next.js, and Tailwind CSS for high-performance web apps.
+- 🛠 **Backend**: Developing **scalable APIs** with Node.js, NestJS, and Express.js, ensuring secure and optimized data flows.
+- ⚡ **Full-Stack Solutions**: End-to-end applications featuring real-time data, state management (Redux, Zustand, RxJS), and **cloud deployments on AWS**.
 
----
 
-## 📊 GitHub Stats
-![Waleed's GitHub stats](https://github-readme-stats.vercel.app/api?username=waleed-khalid-funavry&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waleed-khalid-funavry&layout=compact&theme=dark)
 
----
 
 ## 🛠 Tech Stack & Tools
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
